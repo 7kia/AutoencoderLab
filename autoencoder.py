@@ -1,6 +1,3 @@
-# Full example for my blog post at:
-# https://danijar.com/building-variational-auto-encoders-in-tensorflow/
-
 import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
